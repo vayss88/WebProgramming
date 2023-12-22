@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\va1.props" />
+</Project>
